@@ -36,3 +36,21 @@
 .arrow-style{
     color: blue;
 }
+
+.header-container{
+    background: #f7f8fa;
+    border-radius: 1.5em;
+    margin: auto;
+    padding: 3em;
+}
+/* header card design */
+.header-card{
+    background-color: white;
+    margin: 10px;
+    padding: 21px;
+    border-radius: 12px;
+}
+.header-card:hover{
+    background-color: #3e3131;
+    color: white;
+}

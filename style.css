@@ -25,7 +25,7 @@
     border: none;
     background-color: black;
     color: white;
-    padding: 5px 17px;
+    padding: 8px 17px;
     border-radius: 5px;
 }
 .log-in-btn:hover{
@@ -33,10 +33,6 @@
     color: black;
     border: 1px solid red;
 }
-.arrow-style{
-    color: blue;
-}
-
 .header-container{
     background: #f7f8fa;
     border-radius: 1.5em;
@@ -54,3 +50,16 @@
     background-color: #3e3131;
     color: white;
 };
+/* my custom button style */
+.my-custom-button{
+    /* background-color: green; */
+    color: green;
+}
+.my-special-btn2{
+    background-color: rgb(69,200,129);
+    border: 0;
+    color: white;
+    padding: 6px 30px;
+    border-radius: 4px;
+    text-align: center;
+}
